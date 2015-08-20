@@ -21,7 +21,6 @@
 
   11 July 2015
   Dan Newman <dan.newman@mtbaldy.us>
-  MODIFIED TO ONLY READ THE EEPROM.  DOES NOT WRITE THE EEPROM.
 
   Permission is hereby granted, free of charge, to any person obtaining
   a copy of this software and associated documentation files (the
